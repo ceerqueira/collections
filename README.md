@@ -22,7 +22,10 @@ Foi indicado para estudar os seguintes itens:
 
 #O que foi realmente aprendido durante o curso: 
   
-![Uploading image001.jpg…]()
+![image001](https://github.com/ceerqueira/collections/assets/50030996/e170c7ee-3989-46d5-b1e4-5fbdd7b9d9aa)
+![image002](https://github.com/ceerqueira/collections/assets/50030996/26e6db28-a0ad-4e65-99c1-2076fe849620)
+
+
 
   
  #Interfaces
